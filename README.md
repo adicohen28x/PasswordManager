@@ -6,7 +6,7 @@ the purpose of the app is to collect all of your websites usernames, emails and 
 Moreover, if you are not creative with complex combinations letters / numbers and symbols, the app will generate you a new strong password to use and will save it to the file also.
 
 1. step 1:
-![Capture](https://user-images.githubusercontent.com/93610739/200178295-bdf19813-53b5-4013-9c07-fbd3264c2476.JPG =250x250)
+![Capture](https://user-images.githubusercontent.com/93610739/200178295-bdf19813-53b5-4013-9c07-fbd3264c2476.JPG | width=100)
 
 2.
 notificate the user on the inputs and asks the user again to validate them before saving, the app also checks if one of the inputs are missing- name of the website or password.
